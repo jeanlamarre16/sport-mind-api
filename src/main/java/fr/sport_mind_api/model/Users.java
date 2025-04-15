@@ -1,6 +1,4 @@
-package fr.sport_mind_api.dal;
-
-import com.sun.jdi.PrimitiveValue;
+package fr.sport_mind_api.model;
 
 import java.util.List;
 

@@ -1,7 +1,6 @@
-package fr.sport_mind_api.dal;
+package fr.sport_mind_api.model;
 
 import java.time.LocalDateTime;
-import java.util.Date;
 
 public class Event {
     private Integer id;
